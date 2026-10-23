@@ -1,6 +1,6 @@
 # Hi, I'm JIMMY 👋
 
-CYBERSECUTY ANALIST
+CYBER SECUTY ANALIST
 
 I’m a Student who loves building Software. I enjoy solving real-world problems with clean code, thoughtful design, and a strong focus on user experience.
 
@@ -12,7 +12,7 @@ I’m a Student who loves building Software. I enjoy solving real-world problems
 - 🌍 Based in: OTTAWA CANADA
 - 💻 Main focus: Web / Mobile / AI / Cloud / DevOps / Data / etc.
 - 🚀 Passionate about: TO SOLVING PROBLEM
-- 📚 Currently learning: WINDOW ADMINISTRATOR II
+- 📚 Currently learning: Windows Administration Security III - Advanced Services
 - 🎯 Goal: LOADINDING....................................
 
 ## Tech Stack
